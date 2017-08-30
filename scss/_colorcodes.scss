@@ -1,0 +1,402 @@
+$white: #ffffff;
+$lightblue:#4e5464;
+$darkblue: #141e29;
+$yellow: #FFBA00;
+$purple: #6D73C2;
+$beige: #e4e0dd;
+$greylight: #f8f8f8;
+$greymid: #d8d6d6;
+$greydark:#7e7878;
+$greydarker:#54565a;
+$orange: #d06350;
+$sundown:#fc9f59;
+
+
+$blue_sapphire:#48a4d1;
+$rapsody:#1a3853;
+$pastelpine:#a2b2a4;
+$tulip_yellow:#fcce54;
+$african_queen:#5eb199;
+$amazon:#3d4a54;
+$somegreen:#3e5353;
+
+$pale_red:#df5555;
+$pale_brown:#8d797a;
+
+
+
+
+$whitecrystal:rgb(237, 248, 245);
+$hamptomcourt:rgb(217, 240, 235);
+$pinetop:rgb(137, 211, 194);
+$pitchpine:rgb(64, 172, 148);
+$balsam:rgb(53, 142, 122);
+$conifer:rgb(45, 121, 104);
+$serbia:rgb(29, 80, 68);
+
+$angelicblue:rgb(224, 225, 233);
+$slush:rgb(186, 189, 207);
+$trempealeau:rgb(149, 154, 181);
+$chineseblue:rgb(118, 125, 158);
+$blueaster:rgb(88, 94, 124);
+$bluerhapsody:rgb(71, 75, 99);
+$navyblue:rgb(49, 52, 68);
+
+$orchiddew:rgb(248, 243, 248);
+$viola:rgb(234, 222, 235);
+$lavenderhaze:rgb(187, 179, 193);
+$magical:rgb(157, 143, 165);
+$egyptianviolet:rgb(105, 91, 113);
+$mulberry:rgb(90, 78, 97);
+$blackknight:rgb(68, 58, 73);
+
+$sweetthing:rgb(241, 243, 250);
+$clarity:rgb(213, 218, 238);
+$palecornflower:rgb(170, 181, 221);
+$burple:rgb(149, 162, 213);
+$virginiabluebell:rgb(95, 114, 192);
+$clemantis:rgb(68, 86, 157);
+$hypnotic:rgb(27, 22, 97);
+
+$aquabelle:rgb(230, 247, 244);
+$essence:rgb(187, 232, 227);
+$pittypat:rgb(145, 217, 209);
+$meanderingstream:rgb(68, 191, 179);
+$evansdelight:rgb(56, 165, 154);
+$zebulon:rgb(48, 139, 130);
+$odyssey:rgb(41, 118, 111);
+
+$mayblossom:rgb(244, 232, 232);
+$victoriarose:rgb(235, 214, 214);
+$pinkparasol:rgb(208, 159, 159);
+$roselace:rgb(198, 140, 140);
+$laurelblossom:rgb(193, 132, 132);
+$nostalgiarose:rgb(123, 62, 62);
+$berrycrush:rgb(81, 40, 40);
+
+$riesling:rgb(245, 236, 216);
+$sweetnothings:rgb(238, 220, 183);
+$buttercorn:rgb(227, 199, 138);
+$midastouch:rgb(219, 183, 106);
+$mustard:rgb(209, 164, 69);
+$goldust:rgb(174, 132, 43);
+$eccruolive:rgb(150, 114, 37);
+
+$heirloom:rgb(239, 228, 222);
+$tampico:rgb(217, 194, 179);
+$pueblo:rgb(193, 158, 132);
+$caramelkiss:rgb(173, 128, 95);
+$buckaroo:rgb(135, 97, 69);
+$taffyapple:rgb(112, 80, 56);
+$caravan:rgb(97, 69, 48);
+
+$marblepeach:rgb(243, 220, 209);
+$peachcascade:rgb(237, 200, 182);
+$tawnypeach:rgb(232, 184, 162);
+$indiansummer:rgb(221, 152, 119);
+$mexicanmoonlight:rgb(207, 109, 63);
+$autumnflame:rgb(205, 100, 65) ;
+$rapunzel:rgb(168, 67, 49);
+
+$veronesepeach:rgb(236, 209, 202);
+$rosemorn:rgb(209, 147, 129);
+$palecordovan:rgb(200, 122, 100);
+$humas:rgb(172, 86, 62);
+$pumpernickel:rgb(135, 67, 48);
+$brownies:rgb(120, 61, 44);
+$gingerboy:rgb(103, 52, 37);
+
+$foamgreen:rgb(234, 235, 233);
+$jadecream:rgb(211, 213, 206);
+$foamforest:rgb(179, 181, 172);
+$yucca:rgb(142, 145, 132);
+$greentea:rgb(115, 117, 104);
+$lizard:rgb(88, 90, 80);
+$toweringpine:rgb(53, 54, 48);
+
+$whiteonwhite:rgb(240, 239, 238);
+$snowbell:rgb(218, 216, 214);
+$sussex:rgb(179, 175, 170);
+$natucket:rgb(140, 135, 128);
+$sonora:rgb(114, 109, 103);
+$eclipse:rgb(94, 90, 85);
+$coalmine:rgb(69, 67, 63);
+
+$anglewing:rgb(234, 228, 225);
+$misty:rgb(199, 184, 177);
+$lonerock:rgb(163, 137, 126);
+$weathered:rgb(126, 101, 90);
+$stoneycreek:rgb(109, 87, 78);
+$tundraearth:rgb(82, 65, 58);
+$mustang:rgb(55, 43, 39);
+
+$sunnylemon:rgb(247, 249, 221);
+$vanillacustard:rgb(255, 255, 204);
+$sweetjasmine:rgb(234, 232, 130);
+$sunburst:rgb(231, 227, 116);
+$primrosepath:rgb(227, 232, 145);
+$lanternglow:rgb(202, 202, 0);
+$asparagus:rgb(180, 188, 75);
+
+$glassice:rgb(235, 252, 243);
+$mintsherbet:rgb(201, 245, 223);
+$leaftint:rgb(155, 238, 197);
+$alpineazalea:rgb(94, 227, 160);
+$irishspring:rgb(36, 208, 122);
+$greenenvy:rgb(29, 163, 96);
+$greengenie:rgb(0, 121, 0);
+
+$greenlet:rgb(252, 254, 235);
+$bitterlime:rgb(243, 252, 216);
+$fresca:rgb(239, 251, 200);
+$tropicalmist:rgb(234, 253, 176);
+$chartreuse:rgb(220, 252, 124);
+$greenrage:rgb(147, 194, 1);
+$greenflash:rgb(103, 137, 1);
+
+$firstblush:rgb(253, 234, 238);
+$cherish:rgb(251, 206, 215);
+$toeshoes:rgb(249, 191, 203);
+$phoebe:rgb(245, 160, 177);
+$berries:rgb(242, 121, 146);
+$pelargonium:rgb(238, 81, 113);
+$redglow:rgb(168, 0, 34);
+
+$softcashmere:rgb(254, 238, 205);
+$chiffon:rgb(254, 227, 171);
+$carotene:rgb(253, 217, 140);
+$squash:rgb(253, 208, 115);
+$orangegrove:rgb(252, 190, 63);
+$mandarin:rgb(248, 168, 3);
+$nasturtium:rgb(253, 134, 15);
+
+$buff:rgb(253, 231, 225);
+$peachblush:rgb(252, 209, 199);
+$sugaredpeach:rgb(250, 188, 173);
+$mistycoral:rgb(248, 165, 143);
+$mars:rgb(245, 137, 109);
+$robinsbreast:rgb(234, 116, 77);
+$poppyorange:rgb(215, 73, 26);
+
+$egret:rgb(232, 225, 234);
+$ladydiana:rgb(213, 201, 218);
+$zestylilac:rgb(188, 169, 197);
+$olympia:rgb(166, 139, 177);
+$lisa:rgb(135, 101, 150);
+$mysticpurple:rgb(131, 98, 145);
+$imperialpurple:rgb(101, 75, 112);
+
+$rosetint:rgb(241, 234, 242);
+$fawnlily:rgb(214, 190, 216);
+$woodviolet:rgb(194, 159, 198);
+$chestediris:rgb(171, 120, 175);
+$lillian:rgb(141, 86, 146);
+$plumbago:rgb(108, 66, 111);
+$eggplantdelight:rgb(81, 49, 83);
+
+$lilacsnow:rgb(247, 240, 243);
+$platinumlilac:rgb(230, 208, 218);
+$pearllilac:rgb(189, 130, 156);
+$serendippity:rgb(173, 97, 131);
+$grapejuice:rgb(154, 80, 114);
+$purpleshade:rgb(136, 70, 100);
+$patricianpurple:rgb(87, 45, 64);
+
+
+
+
+
+
+/*--------COLOR CODES--------*/
+.blue_sapphire{ background-color:$blue_sapphire; }
+.rapsody{ background-color:$rapsody; }
+.pastelpine{ background-color:$pastelpine; }
+.tulip_yellow{ background-color:$tulip_yellow; }
+.african_queen{ background-color:$african_queen; }
+.sundown{ background-color:$sundown; }
+.amazon{ background-color:$amazon; }
+.somegreen{ background-color:$amazon; }
+
+
+.whitecrystal{ background-color:$whitecrystal; }
+.hamptomcourt{ background-color:$hamptomcourt; }
+.pinetop{ background-color:$pinetop; }
+.pitchpine{ background-color:$pitchpine; }
+.balsam{ background-color:$balsam; }
+.conifer{ background-color:$conifer; }
+.serbia{ background-color:$serbia; }
+
+.angelicblue{ background-color:$angelicblue; }
+.slush{ background-color:$slush; }
+.trempealeau{ background-color:$trempealeau; }
+.chineseblue{ background-color:$chineseblue; }
+.blueaster{ background-color:$blueaster; }
+.bluerhapsody{ background-color:$bluerhapsody; }
+.navyblue{ background-color:$navyblue; }
+
+.orchiddew{ background-color:$orchiddew; }
+.viola{ background-color:$viola; }
+.lavenderhaze{ background-color:$lavenderhaze; }
+.magical{ background-color:$magical; }
+.egyptianviolet{ background-color:$egyptianviolet; }
+.mulberry{ background-color:$mulberry; }
+.blackknight{ background-color:$blackknight; }
+
+.sweetthing{ background-color:$sweetthing; }
+.clarity{ background-color:$clarity; }
+.palecornflower{ background-color:$palecornflower; }
+.burple{ background-color:$burple; }
+.virginiabluebell{ background-color:$virginiabluebell; }
+.clemantis{ background-color:$clemantis; }
+.hypnotic{ background-color:$hypnotic; }
+
+.aquabelle{ background-color:$aquabelle; }
+.essence{ background-color:$essence; }
+.pittypat{ background-color:$pittypat; }
+.meanderingstream{ background-color:$meanderingstream; }
+.evansdelight{ background-color:$evansdelight; }
+.zebulon{ background-color:$zebulon; }
+.odyssey{ background-color:$odyssey; }
+
+.mayblossom{ background-color:$mayblossom; }
+.victoriarose{ background-color:$victoriarose; }
+.pinkparasol{ background-color:$pinkparasol; }
+.roselace{ background-color:$roselace; }
+.laurelblossom{ background-color:$laurelblossom; }
+.nostalgiarose{ background-color:$nostalgiarose; }
+.berrycrush{ background-color:$berrycrush; }
+
+.riesling{ background-color:$riesling; }
+.sweetnothings{ background-color:$sweetnothings; }
+.buttercorn{ background-color:$buttercorn; }
+.midastouch{ background-color:$midastouch; }
+.mustard{ background-color:$mustard; }
+.goldust{ background-color:$goldust; }
+.eccruolive{ background-color:$eccruolive; }
+
+.heirloom{ background-color:$heirloom; }
+.tampico{ background-color:$tampico; }
+.pueblo{ background-color:$pueblo; }
+.caramelkiss{ background-color:$caramelkiss; }
+.buckaroo{ background-color:$buckaroo; }
+.taffyapple{ background-color:$taffyapple; }
+.caravan{ background-color:$caravan; }
+
+.marblepeach{ background-color:$marblepeach; }
+.peachcascade{ background-color:$peachcascade; }
+.tawnypeach{ background-color:$tawnypeach; }
+.indiansummer{ background-color:$indiansummer; }
+.mexicanmoonlight{ background-color:$mexicanmoonlight; }
+.autumnflame{ background-color:$autumnflame; }
+.rapunzel{ background-color:$rapunzel; }
+
+.veronesepeach{ background-color:$veronesepeach; }
+.rosemorn{ background-color:$rosemorn; }
+.palecordovan{ background-color:$palecordovan; }
+.humas{ background-color:$humas; }
+.pumpernickel{ background-color:$pumpernickel; }
+.brownies{ background-color:$brownies; }
+.gingerboy{ background-color:$gingerboy; }
+
+.foamgreen{ background-color:$foamgreen; }
+.jadecream{ background-color:$jadecream; }
+.foamforest{ background-color:$foamforest; }
+.yucca{ background-color:$yucca; }
+.greentea{ background-color:$greentea; }
+.lizard{ background-color:$lizard; }
+.toweringpine{ background-color:$toweringpine; }
+
+.whiteonwhite{ background-color:$whiteonwhite; }
+.snowbell{ background-color:$snowbell; }
+.sussex{ background-color:$sussex; }
+.natucket{ background-color:$natucket; }
+.sonora{ background-color:$sonora; }
+.eclipse{ background-color:$eclipse; }
+.coalmine{ background-color:$coalmine; }
+
+.anglewing{ background-color:$anglewing; }
+.misty{ background-color:$misty; }
+.lonerock{ background-color:$lonerock; }
+.weathered{ background-color:$weathered; }
+.stoneycreek{ background-color:$stoneycreek; }
+.tundraearth{ background-color:$tundraearth; }
+.mustang{ background-color:$mustang; }
+
+.sunnylemon{ background-color:$sunnylemon; }
+.vanillacustard{ background-color:$vanillacustard; }
+.sweetjasmine{ background-color:$sweetjasmine; }
+.sunburst{ background-color:$sunburst; }
+.primrosepath{ background-color:$primrosepath; }
+.lanternglow{ background-color:$lanternglow; }
+.asparagus{ background-color:$asparagus; }
+
+.glassice{ background-color:$glassice; }
+.mintsherbet{ background-color:$mintsherbet; }
+.leaftint{ background-color:$leaftint; }
+.alpineazalea{ background-color:$alpineazalea; }
+.irishspring{ background-color:$irishspring; }
+.greenenvy{ background-color:$greenenvy; }
+.greengenie{ background-color:$greengenie; }
+
+.greenlet{ background-color:$greenlet; }
+.bitterlime{ background-color:$bitterlime; }
+.fresca{ background-color:$fresca; }
+.tropicalmist{ background-color:$tropicalmist; }
+.chartreuse{ background-color:$chartreuse; }
+.greenrage{ background-color:$greenrage; }
+.greenflash{ background-color:$greengenie; }
+
+.firstblush{ background-color:$firstblush; }
+.cherish{ background-color:$cherish; }
+.toeshoes{ background-color:$toeshoes; }
+.phoebe{ background-color:$phoebe; }
+.berries{ background-color:$berries; }
+.pelargonium{ background-color:$pelargonium; }
+.redglow{ background-color:$redglow; }
+
+.softcashmere{ background-color:$softcashmere; }
+.chiffon{ background-color:$chiffon; }
+.carotene{ background-color:$carotene; }
+.squash{ background-color:$squash; }
+.orangegrove{ background-color:$orangegrove; }
+.mandarin{ background-color:$mandarin; }
+.nasturtium{ background-color:$nasturtium; }
+
+.buff{ background-color:$buff; }
+.peachblush{ background-color:$peachblush; }
+.sugaredpeach{ background-color:$sugaredpeach; }
+.mistycoral{ background-color:$mistycoral; }
+.mars{ background-color:$mars; }
+.robinsbreast{ background-color:$robinsbreast; }
+.poppyorange{ background-color:$poppyorange; }
+
+.egret{ background-color:$egret; }
+.ladydiana{ background-color:$ladydiana; }
+.zestylilac{ background-color:$zestylilac; }
+.olympia{ background-color:$olympia; }
+.lisa{ background-color:$lisa; }
+.mysticpurple{ background-color:$mysticpurple; }
+.imperialpurple{ background-color:$imperialpurple; }
+
+.rosetint{ background-color:$rosetint; }
+.fawnlily{ background-color:$fawnlily; }
+.woodviolet{ background-color:$woodviolet; }
+.chestediris{ background-color:$chestediris; }
+.lillian{ background-color:$lillian; }
+.plumbago{ background-color:$plumbago; }
+.eggplantdelight{ background-color:$eggplantdelight; }
+
+.lilacsnow{ background-color:$lilacsnow; }
+.platinumlilac{ background-color:$platinumlilac; }
+.pearllilac{ background-color:$pearllilac; }
+.serendippity{ background-color:$serendippity; }
+.grapejuice{ background-color:$grapejuice; }
+.purpleshade{ background-color:$purpleshade; }
+.patricianpurple{ background-color:$patricianpurple; }
+
+
+
+
+
+
+
